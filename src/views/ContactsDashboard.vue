@@ -44,7 +44,7 @@
         <div class="profile">
           <div class="avatar">ع</div>
           <div class="profile-info">
-            <strong>علی رضایی</strong>
+            <strong>محمدرضا سجادی</strong>
             <small>مدیر سیستم</small>
           </div>
           <span class="profile-more">•••</span>
@@ -249,7 +249,7 @@
             v-model="newContact.name"
             required
             type="text"
-            placeholder="مثلاً علی رضایی"
+            placeholder="مثلا محمدرضا سجادی"
           />
 
           <label>شماره تماس</label>
